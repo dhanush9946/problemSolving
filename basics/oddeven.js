@@ -1,0 +1,9 @@
+// find the number is odd or even
+
+let n = 6;
+if(n%2==0){
+  console.log('The number is even');
+}else{
+  console.log('The number is odd');
+  
+}
