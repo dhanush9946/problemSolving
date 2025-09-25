@@ -9,5 +9,5 @@ console.log(result);
 
 let r = arr.reduce((acc,num)=>(acc+num))
 console.log(r);
-console.log(a);
-let a= 10;
+// console.log(a);
+// let a= 10;  it gives the referance error
