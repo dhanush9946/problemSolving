@@ -6,3 +6,8 @@ console.log(k)
 
 let result = arr.filter((n)=>(n>10));
 console.log(result);
+
+let r = arr.reduce((acc,num)=>(acc+num))
+console.log(r);
+console.log(a);
+let a= 10;
